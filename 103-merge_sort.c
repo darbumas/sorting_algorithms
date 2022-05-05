@@ -13,7 +13,7 @@
  */
 void TopDownMerge(size_t top, size_t mid, size_t low, int *dest, int *src)
 {
-    size_t i, j, k;
+	size_t i, j, k;
 
 	printf("Merging...\n");
 	printf("[left]: ");
